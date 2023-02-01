@@ -410,3 +410,4 @@ if diff -q "${bak:-}" "$conf" 2>/dev/null; then
 fi
 
 echo "Successfully generated config"
+
